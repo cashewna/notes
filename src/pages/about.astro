@@ -1,5 +1,6 @@
 ---
 import '../styles/global.css';
+import Navigation from '../components/Navigation.astro'
 const pageTitle = "About Me";
 
 const identity = {
@@ -19,10 +20,7 @@ const skillColor = "navy";
 const fontWeight = "bold";
 const textCase = "uppercase";
 ---
-
-<a href="/">Home</a>
-<a href="/about">About</a>
-<a href="/genc3004">GENC3004</a>
+<Navigation />
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
