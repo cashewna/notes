@@ -1,4 +1,5 @@
 ---
+import '../styles/global.css';
 const pageTitle = "About Me";
 
 const identity = {
@@ -13,18 +14,22 @@ const skills = ["Java", "Python", "Rust", "C", "SQL", "HTML", "CSS", "JavaScript
 const happy = true;
 const finished = false;
 const goal = 3;
+
+const skillColor = "navy";
+const fontWeight = "bold";
+const textCase = "uppercase";
 ---
 
 <a href="/">Home</a>
 <a href="/about">About</a>
-<a href=/genc3004">GENC3004</a>
+<a href="/genc3004">GENC3004</a>
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
 		<title>About</title>
+        </style>
 	</head>
 	<body>
 		<h1>{pageTitle}</h1>
@@ -38,7 +43,7 @@ const goal = 3;
         </ul>
         <p>My skills are:</p>
         <ul>
-            {skills.map((skill) => <li>{skill}</li>)}
+            {skills.map((skill) => <li class="skill">{skill}</li>)}
         </ul>
 
         {happy && <p>I am happy to be learning Astro!</p>}
