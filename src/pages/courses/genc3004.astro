@@ -1,8 +1,11 @@
 ---
-import '../styles/global.css';
-import Navigation from '../components/Navigation.astro';
+import '../../styles/global.css';
+import Navigation from '../../components/Navigation.astro';
+export const frontmatter = {
+	title: "GENC3004 Notes",
+};
 
-const posts = await Astro.glob("../pages/genc3004/*.md");
+const posts = await Astro.glob("../../pages/courses/genc3004/*.md");
 ---
 <html lang="en">
 	<head>

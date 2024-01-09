@@ -1,0 +1,6 @@
+---
+import courses from "../pages/courses/courseTitles.json";
+---
+<ul>
+    {courses.map(course => <li><a href={course.url}>{course.title}</a></li>)}
+</ul>
