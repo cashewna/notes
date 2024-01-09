@@ -2,7 +2,6 @@
 import "../styles/global.css";
 import Header from "../components/Header.astro";
 import Sidebar from "../components/Sidebar.astro";
-import Footer from "../components/Footer.astro";
 
 const { title } = Astro.props;
 ---
@@ -24,27 +23,37 @@ const { title } = Astro.props;
         <div class="content">
             <slot />
         </div>
-        <div class="footer">
-		    <Footer />
-        </div>
 	</body>
 </html>
 
 <style>
     body {
         display: grid;
-        grid-template-columns: 1fr 3fr;
-        grid-template-rows: 50px min(80vh) 50px;
+        grid-template-columns: 1fr 6fr;
+        grid-template-rows: 50px 1fr;
+        min-width: 100%;
+        min-height: 100vh;
     }
     
     .header {
         grid-column: 1 / 3;
         grid-row: 1 / 2;
+        min-height: 100%;
+        padding-top: 1rem;
+        background-color: hsl(224, 20%, 97%);
     }
     
     .sidebar {
         grid-column: 1 / 2;
         grid-row: 2 / 3;
+        padding-top: 1rem;
+    }
+    
+    .header,
+    .sidebar {
+        --hairline-color: hsl(200, 20%, 94%);
+        padding-left: 4rem;
+        border-inline-end: 1px solid var(--hairline-color);
     }
     
     .content {
@@ -55,5 +64,6 @@ const { title } = Astro.props;
     .footer {
         grid-column: 1 / 3;
         grid-row: 3 / 4;
+        justify-self: center;
     }
 </style>

@@ -5,8 +5,8 @@ html {
 body {
     width: 100%;
     max-width: 80ch;
-    padding: 1rem;
     line-height: 1.5;
+    margin: 0;
 }
 
 * {
