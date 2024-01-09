@@ -1,5 +1,5 @@
 ---
-title: "Financial Strategy"
+title: "02 - Financial Strategy"
 pubDate: 2024-01-08
 description: "Financial strategy is your 'game plan' for achieving your financial goals for each of your life stages."
 author: "Krishna Khong"

@@ -1,5 +1,5 @@
 ---
-title: "Financial Independence"
+title: "03 - Financial Independence"
 pubDate: 2024-01-08
 description: "Financial independence is a state where an individual or household has accumulated sufficient financial resources to cover its living expenses without having to depend on active employment or work to earn money in order to maintain its current lifestyle."
 author: "Krishna Khong"
