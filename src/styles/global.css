@@ -1,5 +1,4 @@
 html {
-    background-color: #f1f5f9;
     font-family: sans-serif;
 }
 
@@ -21,4 +20,8 @@ h1 {
 
 p {
     font-size: 1rem;
+}
+
+h1, p {
+    color: #454545;
 }
