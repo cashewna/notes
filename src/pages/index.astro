@@ -1,23 +1,6 @@
 ---
-import "../styles/global.css";
-import Navigation from "../components/Navigation.astro";
-import Footer from "../components/Footer.astro";
-import Sidebar from "../components/Sidebar.astro";
-
-const pageTitle = "Home Page";
+import BaseLayout from "../layouts/BaseLayout.astro";
 ---
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>{pageTitle}</title>
-	</head>
-	<body>
-		<Navigation />
-		<Sidebar />
-		<h1>Krish's Notes Site</h1>
-		<Footer />
-	</body>
-</html>
+<BaseLayout title="Home Page">
+	<h1>Krish's Notes 📝</h1>
+</BaseLayout>
