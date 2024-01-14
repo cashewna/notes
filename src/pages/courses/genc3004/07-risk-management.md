@@ -50,3 +50,10 @@ tags: ["genc3004", "24T0", "risk management", "unit 7"]
 - Consider 'hospital only cover' with high excess
     - self-insure for general extras unless it is definitely worth it!
 - Always get ambulance cover
+
+### Travel Insurance
+- Covers medical expenses and theft when you are travelling overseas
+- Health-care overseas can be VERY expensive
+- An absolute 'must-have' when travelling
+- Read all the terms and conditions carefully before leaving
+    - Write down a procedure for what to do if you get very sick and keep it with your passport
