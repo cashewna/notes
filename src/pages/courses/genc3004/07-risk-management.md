@@ -39,3 +39,14 @@ tags: ["genc3004", "24T0", "risk management", "unit 7"]
 - If incorrectly executed (signed) then it is invalid
 - You must sign the document
 - Your signature 'witnessed' by two people
+
+## Health Insurance
+
+### Tips
+- Most people lose on extras cover over the long term
+    - Cheaper to have hospital cover only and save the difference
+- Research and consider each fund carefully
+    - iselect.com.au provides some okay guidance (not great though)
+- Consider 'hospital only cover' with high excess
+    - self-insure for general extras unless it is definitely worth it!
+- Always get ambulance cover
