@@ -26,3 +26,7 @@ else:
 
 ## Present value of annuity
 Assume that superannuation/funds are used up over a period of time.
+
+Can also be used to determine borrowing capacity.
+
+present_value = cash_flow * ((1 - (1 + rate)^-period) / rate)
