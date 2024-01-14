@@ -32,3 +32,10 @@ tags: ["genc3004", "24T0", "risk management", "unit 7"]
 4. Identify how to MEAT the challenge of each risk
     - Mitigate, eliminate, accept, or transfer the risk.
 5. Take action now and then monitor
+
+## Estate Planning
+
+### Signing the Will
+- If incorrectly executed (signed) then it is invalid
+- You must sign the document
+- Your signature 'witnessed' by two people
