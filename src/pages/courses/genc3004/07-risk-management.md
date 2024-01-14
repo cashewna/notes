@@ -42,6 +42,8 @@ tags: ["genc3004", "24T0", "risk management", "unit 7"]
 
 ## Health Insurance
 
+An excess (also known as a deductible) is an amount the policy holder must pay if they proceed with making an insurance claim on their insurance policy. It's the first amount payable by the policy holder in the event of a loss and is referred to as the uninsured portion of the loss.
+
 ### Tips
 - Most people lose on extras cover over the long term
     - Cheaper to have hospital cover only and save the difference
@@ -57,3 +59,11 @@ tags: ["genc3004", "24T0", "risk management", "unit 7"]
 - An absolute 'must-have' when travelling
 - Read all the terms and conditions carefully before leaving
     - Write down a procedure for what to do if you get very sick and keep it with your passport
+    
+## Final Tips
+1. Most people are under-insured and therefore are not protected against worst-case scenarios.
+2. This can cause significant hardship to your family.
+3. Insurance is not a waste of money
+    - It is part of your responsibility to plan for the future.
+4. Don't get ripped off with high monthly premiums ... choose a higher excess if appropriate.
+5. Never lie or omit relevant info on application forms.
