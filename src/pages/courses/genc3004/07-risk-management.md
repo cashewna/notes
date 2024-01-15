@@ -35,7 +35,34 @@ tags: ["genc3004", "24T0", "risk management", "unit 7"]
 
 ## Life Insurance
 ### Death Cover
+Pays a lump sum amount when you die (eg $1 million).
 
+Also called 'Term insurance'.
+
+Used by family to pay-off debts and cover future living expenses.
+
+Cheapest way to get it is via superannuation account.
+
+Calculate based on needs:
+Total debt - investments - superannuation + Present Value (PV) of replacement income
+
+Example:
+John and Sarah are a couple aged 30 with 2 dependent children.
+
+They have a home loan of $500,000
+
+They each have $100,000 in superannuation accounts.
+
+They have $50,000 of other investments.
+
+If either die, they would need $50,000 per year for 30 years (until age of 60)
+
+The real rate of return on investments is 5% per annum.
+
+```
+Cover = 500,000 - 50,000 - 100,000 + 50,000 * ((1 - (1.05)^-30)/0.05)
+      = 1,118,623
+```
 ### Total & Permanent Disability (TPD)
 
 ### Income Protection
