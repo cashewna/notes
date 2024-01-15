@@ -48,6 +48,10 @@ Benefit waiting period between 14 and 90 days.
     - You choose the waiting period when you apply for insurance.
     - Payments don't start until X days after the accident.
     - The longer the waiting period, the cheaper the premiums.
+    
+Premium payments can be claimed as tax deduction.
+
+    - But if you get sick and receive benefits, they are taxed.
 
 ### Workers Compensation
 A type of basic 'income protection' paid by your employer
