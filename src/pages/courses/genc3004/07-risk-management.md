@@ -33,6 +33,38 @@ tags: ["genc3004", "24T0", "risk management", "unit 7"]
     - Mitigate, eliminate, accept, or transfer the risk.
 5. Take action now and then monitor
 
+## Life Insurance
+### Death Cover
+
+### Total & Permanent Disability (TPD)
+
+### Income Protection
+Replaces up to 90% (first six months) then 70% (subsequent periods) of your salary if you have an accident or illness that prevents you from working.
+
+Also called 'Salary continuance' and 'Income Insurance'.
+
+Benefit waiting period between 14 and 90 days.
+
+    - You choose the waiting period when you apply for insurance.
+    - Payments don't start until X days after the accident.
+    - The longer the waiting period, the cheaper the premiums.
+
+### Workers Compensation
+A type of basic 'income protection' paid by your employer
+
+All employees of companies are covered
+
+The employer pays the premiums for you (required by law)
+
+Safety-net for people without income protection or savings
+
+Covers you for accidents at work
+
+Pays salary (or proportion) for 6 months
+...and will pay medical bills (up to a limit)
+
+Best not rely on this and apply for separate income protection!
+
 ## Estate Planning
 
 ### Signing the Will
