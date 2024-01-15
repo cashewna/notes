@@ -27,3 +27,12 @@ present_value = annual_net_rent / (rate - growth)
     - Taxable income = Assessable income less allowable deduction
 4. Offset 'loss' against salary income to reduce income tax.
 5. Hold property for long-term to achieve gain in asset value.
+
+### Positive Cash Flow
+1. Build up a portfolio of investment properties.
+2. Focus on properties that generate good rental income.
+    - These may be lower valued properties in areas of high rental demand.
+3. Make sure portfolio generates positive cash flow.
+    - Cash inflow: Rent
+    - Cash outflows: Investment loan interest, agent fees, maintenance
+4. Stop working and enjoy 'passive income' (financial independence)
