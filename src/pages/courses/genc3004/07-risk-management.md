@@ -98,6 +98,21 @@ Best not rely on this and apply for separate income protection!
 
 ## Estate Planning
 
+### What is a will?
+Legal document with clear instructions about what will happen after you die.
+
+Who will receive your stuff (beneficiaries)
+
+    - Real assets (cars, music, computers etc)
+    - Financial assets (bank accounts and investments)
+    - Until distributed, they are owned by 'The Estate of Krishna Khong'
+
+Who will be the guardian of your children
+
+Who will oversee the whole process (executor)
+
+With adequate 'backup' clauses in case beneficiaries or executors die before you (predecease you)
+
 ### Signing the Will
 - If incorrectly executed (signed) then it is invalid
 - You must sign the document
