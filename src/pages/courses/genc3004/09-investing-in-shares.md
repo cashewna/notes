@@ -89,5 +89,35 @@ Less temptation to speculate (pick stocks or time the market)
 
 ## Shares in Australia
 
+### Dividends at tax time
+You receive a cash dividend of $700.
+
+Dividend notice advises 'franking credits' are $300.
+
+You report your income as $700 + $300 = $1000 (even though you only received $700 in cash!)
+
+Calculate tax at your marginal rate (say 38.5%) = $385.
+
+Report the 'franking credit' as a tax rebate on tax return.
+
+You only pay $385 - $300 = $85 in tax.
+
+Total tax received by government is $300 in corporate tax plus $85 in personal income tax = $385 = 38.5% tax.
+
+### Capital gains at tax time
+Cost price = Purchase price + brokerage fees
+
+Disposal price = Sale price - brokerage fees
+
+Gain = Disposal price - cost price
+
+Add this gain to your assessable income.
+
+Taxed at your marginal rate of tax + medicare levy.
+
+If held shares > 1 year then only 1/2 of capital gain is assessable.
+
+You only pay it when you sell the shares, so invest for the long term and defer tax indefinitely!
+
 ## Non-Mainstream Investments
 
