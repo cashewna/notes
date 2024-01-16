@@ -158,6 +158,14 @@ Assets that you do not directly own
 >
 > Death benefits from life insurance policies.
 
+### Choosing distribution
+Normally a bad idea to leave specific assets to people because you may not have them when you die or it may be unfair.
+
+Better to say 50% of all assets to this person, 25% to another, 25% to another and let them decide which assets they want.
+
+If the beneficiaries can't decide then there is an easy solution - Ebay everything and give people $$$
+
+Make sure there is a residual beneficiary in case everyone else is dead (eg. A charity)
 
 ## Health Insurance
 
