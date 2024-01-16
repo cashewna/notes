@@ -249,6 +249,7 @@ Encourage leveraged investments
 
 Encourage automatic trades following 'celebrity investors'
 - So many problems here I don't know where to start!
+- Market manipulation, abuse on arbritrage, etc.
 
 Encourage trading in commodities, cryptocurrency, and forex.
 - These are all speculative (gambling) assets.
