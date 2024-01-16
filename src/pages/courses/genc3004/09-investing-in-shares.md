@@ -34,6 +34,58 @@ Investing $1000
 5. Borrowing money to invest in the Market Index provides a better trade-off between risk and return than speculating on stocks and timing the market for those who are targeting much higher returns.
 
 ## Investing in Shares
+### Buying Shares Directly
+You buy and sell shares through a broker (usually online)
+
+Fees are usually about $10 to $20 per transaction
+
+You must research companies thoroughly.
+
+You must consider both expected return and risk.
+
+You must diversify to reduce risk (usually 10 to 20)
+
+Most investors underperform in either return or risk.
+
+Many investors slide into short-term speculative behaviour.
+
+### Managed funds (mutual funds)
+Offered by banks and investment banks (fund managers)
+
+A professionally designed portfolio of shares or fixed interest promoted through networks of financial advisers
+
+Attempt to 'pick stocks' and 'time the market'.
+
+Management fees (usually 1% to 2% per year)
+
+Entry fees (usually 0% to 4% of investment)
+
+Usually pay ongoing commissions to financial advisers
+
+A large choice of funds available (1,000s!)
+
+Consistent outperformance in return and risk is debatable.
+
+### Exchange Traded Funds (ETFs)
+They look like an ordinary share listed on a stock exchange but they track an index.
+
+You can achieve good diversification with just one share!
+
+Very low fees compared to mutual funds (managed funds)
+
+Pay no commission to advisers (so they don't like them!)
+
+Available for many different indices
+- Broad Share Market Index
+- Tech Stocks Index
+- Small Companies Index
+- Resource Company Index
+- Fixed Interest Index
+- Commercial Propery Index
+- Commodity Price Index
+- Currency Index
+
+Less temptation to speculate (pick stocks or time the market)
 
 ## Shares in Australia
 
