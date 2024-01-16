@@ -97,6 +97,7 @@ Pays salary (or proportion) for 6 months
 Best not rely on this and apply for separate income protection!
 
 ## Estate Planning
+> Marriage invalidates prior wills.
 
 ### What is a will?
 Legal document with clear instructions about what will happen after you die.
@@ -139,6 +140,24 @@ The administrator applies state laws for intestacy.
     - The law varies from state to state.
 
 For two people dying at the same time, the older person is deemed to have died first.
+
+### What can't be covered in your will?
+Any assets owned jointly with someone else.
+> Title is automatically transferred to the surviving person.
+>
+> Most people purchase houses jointly with their spouse.
+>
+> ...so full ownership will automatically transfer to the spouse.
+
+Assets that you do not directly own
+> Super is owned by a trust on your behalf and so you cannot give instructions about it on your will.
+>
+> Instead, nominate 'beneficiaries' on your super application form.
+>
+> Any assets held in a family trust.
+>
+> Death benefits from life insurance policies.
+
 
 ## Health Insurance
 
