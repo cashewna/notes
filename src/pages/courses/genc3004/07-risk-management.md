@@ -125,11 +125,6 @@ A good will reduces admin and legal costs.
 
 If you are married and don't have one - then the laws of intestacy may end up screwing your family!
 
-### Signing the Will
-- If incorrectly executed (signed) then it is invalid
-- You must sign the document
-- Your signature 'witnessed' by two people
-
 ### Dying intestate
 Dying 'intestate' means you died without a valid will.
 
@@ -196,6 +191,23 @@ If no one in your family qualifies:
 - Can appoint your solicitor as an executor (expensive)
 
 Always appoint a backup executor in case they refuse!
+
+### Signing the Will
+- If incorrectly executed (signed) then it is invalid
+- You must sign the document
+- Your signature 'witnessed' by two people
+- Witnesses cannot be beneficiaries (eg your family)
+- Preferably all to sign with the same pen
+- Best for all to initial each page of the will (if > 1 page)
+- Best to then take copies and provide to executor, beneficiaries, guardian and family solicitor.
+
+### Alternatives for preparing a will
+1. Will kit
+- If single and a few assets then probably best to use a 'Will Kit' available from post office, stationery shop, or online.
+
+2. Solicitor
+- If you have more than $10,000 in assets or you are married, then it is better to get one drafted by a solicitor.
+- Normally costs around $400 - $700 (1 - 2 billable hours)
 
 ## Health Insurance
 
