@@ -167,6 +167,22 @@ If the beneficiaries can't decide then there is an easy solution - Ebay everythi
 
 Make sure there is a residual beneficiary in case everyone else is dead (eg. A charity)
 
+### Choosing beneficiaries
+If single, usually leave 100% to either siblings or parents.
+
+If married, usually leave 100% to your spouse.
+
+However, need to also leave instructions for if your spouse or members of your family are dead.
+
+For example:
+> I leave 100% to my spouse.
+>
+> If my spouse predeceases me then 100% to brother,
+>
+> If my brother predeceases me then 100% to parents,
+>
+> If my parents predecease me then 100% to Salvation Army charity.
+
 ## Health Insurance
 
 An excess (also known as a deductible) is an amount the policy holder must pay if they proceed with making an insurance claim on their insurance policy. It's the first amount payable by the policy holder in the event of a loss and is referred to as the uninsured portion of the loss.
