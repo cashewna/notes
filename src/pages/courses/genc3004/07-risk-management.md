@@ -103,6 +103,17 @@ Best not rely on this and apply for separate income protection!
 - You must sign the document
 - Your signature 'witnessed' by two people
 
+### Dying intestate
+Dying 'intestate' means you died without a valid will.
+
+There is no will so the probate division of the Supreme Court appoints an administrator.
+
+The administrator applies state laws for intestacy.
+
+    - The law varies from state to state.
+
+For two people dying at the same time, the older person is deemed to have died first.
+
 ## Health Insurance
 
 An excess (also known as a deductible) is an amount the policy holder must pay if they proceed with making an insurance claim on their insurance policy. It's the first amount payable by the policy holder in the event of a loss and is referred to as the uninsured portion of the loss.
