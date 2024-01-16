@@ -183,6 +183,20 @@ For example:
 >
 > If my parents predecease me then 100% to Salvation Army charity.
 
+### Choosing an executor
+Executor oversees the whole process of distributing assets in conjunction with a solicitor.
+
+Qualities of an executor:
+- Someone who 'gives stuff'
+- Usually a close family member (parent or sibling)
+- Good administration and follow-through skills
+- Good interpersonal skills if there are family disagreements
+
+If no one in your family qualifies:
+- Can appoint your solicitor as an executor (expensive)
+
+Always appoint a backup executor in case they refuse!
+
 ## Health Insurance
 
 An excess (also known as a deductible) is an amount the policy holder must pay if they proceed with making an insurance claim on their insurance policy. It's the first amount payable by the policy holder in the event of a loss and is referred to as the uninsured portion of the loss.
