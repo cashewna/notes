@@ -209,6 +209,17 @@ Always appoint a backup executor in case they refuse!
 - If you have more than $10,000 in assets or you are married, then it is better to get one drafted by a solicitor.
 - Normally costs around $400 - $700 (1 - 2 billable hours)
 
+### Enduring power of attorney
+If married or aged, consider arranging Enduring Power of Attorney with the solicitor when drafting your will.
+
+'Power of Attorney' allows them to buy and sell your investments while you are still 'mentally capable'.
+- Good for temporarily granting permission if you are overseas a lot and cannot sign documents.
+
+'Enduring Power of Attorney' allows them to buy and sell investments even if you are mentally incapable.
+- For example: if you are in a coma or are mentally ill.
+- Good for couples in the event of an accident.
+- Good for elderly people in risk of mental illness.
+
 ## Health Insurance
 
 An excess (also known as a deductible) is an amount the policy holder must pay if they proceed with making an insurance claim on their insurance policy. It's the first amount payable by the policy holder in the event of a loss and is referred to as the uninsured portion of the loss.
