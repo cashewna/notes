@@ -113,6 +113,17 @@ Who will oversee the whole process (executor)
 
 With adequate 'backup' clauses in case beneficiaries or executors die before you (predecease you)
 
+### Why have a will?
+A will makes transferring title of your financial assets easier for your family.
+
+This is important since they will also be grieving.
+
+A will reduces the likelihood of family arguments.
+
+A good will reduces admin and legal costs.
+
+If you are married and don't have one - then the laws of intestacy may end up screwing your family!
+
 ### Signing the Will
 - If incorrectly executed (signed) then it is invalid
 - You must sign the document
