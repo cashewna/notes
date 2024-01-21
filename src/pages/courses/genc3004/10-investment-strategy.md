@@ -293,6 +293,17 @@ A nice situation can be negatively geared but positive cash flow!
 
 ## Borrowing to Invest
 
+### Financial Leverage and Investments
+1. Your first home
+- with a home loan
+2. An investment property
+- with a property investment loan
+3. Your brain (via education)
+- with a student loan (HECS or FEE-HELP)
+4. A diversified portfolio of shares
+- with a margin loan (secured by shares)
+- or an investment loan (secured by property)
+
 ## Longevity and Sequencing Risk
 
 ## Risk Profile
