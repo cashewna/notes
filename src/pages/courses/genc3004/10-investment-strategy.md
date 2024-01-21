@@ -233,6 +233,64 @@ Contracts for Difference (CFD)
 
 ## Financial Leverage
 
+### Two types of leverage
+1. Operating leverage
+- High fixed operating (living) expenses in proportion to total expenses increases risk.
+2. Financial leverage
+- High fixed interest expenses in proportion to total expenses increases risk (income leverage).
+- High levels of debt in proportion to total assets increases equity risk (capital leverage).
+
+### Financial Leverage and Investments
+1. Your first home
+- with a home loan
+2. An investment property
+- with a property investment loan
+3. Your brain (via education)
+- with a student loan (HECS or FEE-HELP)
+4. A diversified portfolio of shares
+- with a margin loan (secured by shares)
+- or an investment loan (secured by property)
+
+### For whom is financial leverage appropriate?
+- Anyone who wants to buy a home.
+- Low risk with your personal income.
+- Long-term investment time horizon (10+ years).
+- Maintain an adequate 'cash buffer'.
+- Able to avoid dumb investment decisions (behavioural risk).
+    - High levels of self-control to avoid speculation.
+- Higher personal income tax rate bracket.
+- Investors who would like to achieve above average returns without resorting to speculation.
+
+### Positive v negative gearing
+Tax implications of financial leveraged investment
+
+Positive gearing
+- Assessable income (rent or dividends) > Allowable deductions (interest and costs)
+- Increases personal income tax
+
+Negative gearing
+- Assessable income (rent or dividends) < Allowable deductions (interest and costs)
+- Decreases personal income tax
+
+#### Warning
+Too many people focus on tax implications of investment and end up choosing dumb investments!
+
+### Positive v negative cash flow
+Cash flow implications of financial leveraged investment
+
+Positive cash flow
+- Cash inflow (rent or dividends) > Cash outflow (interest and costs)
+- Increases cash flow (your pie) and flexibility
+
+Negative cash flow
+- Cash inflow (rent or dividends) < Cash outflow (interest and costs)
+- Decreases cash flow (your pie) and flexibility
+
+Not necessarily the same as positive or negative gearing due to
+depreciation and other non-cash expenses (accrued interest)
+
+A nice situation can be negatively geared but positive cash flow!
+
 ## Borrowing to Invest
 
 ## Longevity and Sequencing Risk
