@@ -652,5 +652,97 @@ FPA is the Financial Planning Association of Australia
 - Stick with large and trusted financial institutions.
 - Don't try to make the 'best' choice ... avoid the 'bad' ones.
 
-
 ## Financial and Investment Strategy
+
+### Phase 1a: Extreme Saving
+1. Obtain a graduate position earning a basic full-time salary.
+2. Radical surgery to cut living expenses so you can save 70%.
+    - Move back home with parents or live in a cheap shared home, don't buy a car, don't buy meals.
+3. Build minimum of $5,000 cash buffer in transaction account.
+4. Build minimum of $10,000 financial slack in savings.
+5. Save an additional $10,000 and invest into ETF that tracks ASX200 (or in my case DHHF through CMC markets).
+6. Regularly invest additional savings into ETF keeping records.
+    - Probably best to do this in $5,000 increments to minimise transaction fees.
+
+Objective is to build up $20,000 in your ETF.
+
+### Phase 1b: Add Financial Leverage
+Once you have $20,000 saved in your ETF...
+1. Add a margin loan to your share trading account.
+2. Borrow $10,0000 using margin loan and invest in ETF (LVR is 33%).
+3. Capitalise the interest.
+4. Continue saving additional funds into ETF.
+5. With time and experience, adjust LVR up to 40%.
+
+Objective is to build ETF to $100,000.
+- with margin loan of $40,000 so your equity is $60,000.
+
+### Phase 2a: Buy First Property
+Once you built your ETF to $100,000 ($60,000 in equity, $40,000 margin loan, 40% LVR)
+1. Apply for $500,000 home loan with parent security guarantee.
+2. Buy older non-trendy 2 beroom apartment for $500,000.
+3. Rent out second room to a border on a 'non-commercial basis'.
+
+### Phase 2b: Build Share Portfolio
+1. Only pay the minimum monthly payments on home loan.
+2. Continue to add savings to your ETF investment.
+    - We are diversifying between property and shares and building investment cash flow.
+
+Objective is to build ETF to $300,000 and have zero dwelling cost.
+    - with a margin loan of $120,000 so your equity is $180,000 (40% LVR)
+    
+### Phase 3: Zero dwelling costs
+We now have no 'net' home loan payments.
+
+Our salary has increased at work due to hard work and promotions.
+
+We have kept expenses under control and can save 30% or more of income.
+
+Your friends are all drowning in home loan payments and fixed expenses.
+
+You have a lot of good alternatives!
+
+### Phase 3a: Aggressively pay down home loan
+If you are happy living in your 2 bedroom apartment...
+- Aggresively pay down home loan to cut home loan repayments.
+- Salary sacrifice into superannuation to build financial independence.
+
+Consider obtaining an 'investment loan' against property to reduce your margin loan to zero and lower interest expenses.
+
+### Phase 3b: Aggressively build share portfolio
+If you are happy living in your 2 bedroom apartment...
+
+Continue building share portfolio to build investment income.
+
+Salary sacrifice into superannuation to build financial independence.
+
+Consider obtaining an 'investment loan' against property to reduce your margin loan to zero and lower interest expenses.
+
+### Phase 4: Financial Freedom
+Achieve financial independence primarily using super
+
+1. Salary sacrifice into super
+    - Up to the concessional contributions cap of $27,500 per year per person.
+2. Gradually move investments into super as you approach retirement.
+    - Up to non-concessional contribution cap of $110,000 per year per person.
+    - Up to transfer balance cap of $1.7 million per person.
+    - Try to 'equalise' superannuation with your spouse to avoid breaching transfer balance cap.
+3. Create a TTR pension at age 60.
+    - If you are still working, continue salary sacrificing up to concessional contribution cap.
+4. Move TTR into account based pension when you permanently retire.
+    - Enjoy tax-free income payments from pension and tax-free investment returns.
+
+### Phase 4: Freedom a bit earlier (FIRE)
+1. Live a content and frugal life (Lean or Barista FIRE)
+- keep living expenses low to achieve financial independence early
+- keep working until superannuation becomes available (age 60)
+2. Build a large investment property portfolio (FAT or Coast FIRE)
+- with a 'assive income' from the positive cash flow (rent)
+- continue working only for the satisfaction of the work
+3. Build a large share portfolio (FAT or Coast FIRE)
+- with a 'passive income' from the positive cash flow (dividends)
+- continue working only for the satisfaction of the work
+4. Build a profitable business (FAT or Coast FIRE)
+- and sell it to someone else for capital gains
+- continue working only for the satisfaction of the work.
+
