@@ -304,6 +304,112 @@ A nice situation can be negatively geared but positive cash flow!
 - with a margin loan (secured by shares)
 - or an investment loan (secured by property)
 
+### Best to leverage with
+Investment loan using property as collateral. Why?
+1. Low interest rates (compared to other loans)
+2. No margin calls
+3. Banks prefer property as collateral
+4. Easy to obtain if you have paid off some of the mortgage and property has gone up in value.
+
+But if investments fall in value sharply and you cannot make loan repayments then you could lose your house!
+
+### What if you don't have property?
+You want to borrow to invest in shares but don't have property?
+
+**DON'T** use CFDs, Futures, or derivatives.
+
+Consider using a *margin loan*. But be conservative please!
+
+### What is a Margin Loan?
+Different from an investment loan that has property as collateral. Why?
+1. Uses the shares as collateral on the loan.
+2. Offered by banks through stockbrokers (such as Commsec).
+3. Higher interest rates than property loans.
+4. Subject to a 'margin call' if the shares drop sharply in value.
+5. Flexible payment options such as 'capitalising interest'.
+- Interest just gets added to principal outstanding on the loan and isn't paid.
+6. Can be very easy to obtain if you have a good income.
+
+### Capitalising Interest
+You are charged interest on the margin loan
+- but they just add it onto the principal outstanding of the loan.
+- so that it doesn't affect your 'net cash flow'
+If price gains > margin loan interest then LVR will fall over time.
+
+The interest is still an allowable deduction for tax purposes.
+- so investment can be negatively geared (reduces tax)
+- but positive cash flow from the dividends (increases cash)
+
+### What is an LVR?
+Loan to value ration
+
+LVR = Debt / Assets = Margin Loan / Market Value of Shares
+
+If value of shares is $100,000 and margin loan is $50,000 then:
+LVR = 50,000 / 100,000 = 50%
+
+### A portfolio has three different LVRs
+1. Current LVR
+- Margin loan divided by current market value of shares.
+2. Base LVR
+- The maximum LVR based on the shares in the portfolio.
+- This will depend on the volatility and liquidity of those shares as published in 'Approved List'.
+- For an ETF that tracks the ASX200 index, the standard LVR is 75%.
+- so you could theoretically invest $25,000 equity, borrow $75,000 to buy $100,000
+3. Margin Call LVR
+- The LVR at which you will receive the dreaded 'margin call'.
+- This is normally Base LVR +5%.
+
+### The Dreaded 'Margin Call'
+You have exceeded the Margin Call LVR because you borrowed too aggressively and then:
+1. A sharp decline in share prices over a short-period of time (usually)
+2. A slow decline in share prices over a long-period of time.
+3. Flat prices but capitalised interest caused LVR to increase slowly.
+
+Solution:
+1. Use your financial slack to pay down margin loan.
+2. Sell shares
+- Usually bad if they have just falled in value since it will lock-in the losses.
+
+### What is a safe LVR?
+Many diversified ETFs have a base LVR of about 75%
+- Which usually means the margin call LVR = 75% + 5% = 80%.
+
+You need to be able to handle a 50% fall in market values.
+- Most stock market crashes are about 30% - the worst are about 50% in developed markets.
+
+If prior to fall in market prices
+- Value of investments (assets) = 100,000
+- Value of margin loan (debt) = 40,000 (LVR = 40%)
+
+If the assets fall in value by 50%:
+- Value of investments (assets) = 50,000
+- Value of margin loan (debt) = 40,000 (LVR = 80%)
+Only just on the threshold of a margin call.
+Any margin call would be minor and you should be able to handle it from financial slack.
+
+### LVR robustness
+How much can the value of your share portfolio fall by based on a starting current LVR if margin call LVR = 80%?
+- Note that the market fell by 50% in the 2008-2009 global financial crisis
+
+LVR 70% - Market fall 12.5%
+LVR 60% - Market fall 25%
+LVR 50% - Market fall 37.5%
+LVR 40% - Market fall 50.0%
+LVR 30% - Market fall 62.5%
+
+### Remember
+- Investment loans (using property) are preferred to margin loans.
+- Avoid using Contracts for Difference (CFDs) for financial leverage.
+- Positive cash flow is preferred to negative gearing.
+- Have you considered the costs of financial distress?
+    - What if you lose your job for a significant period (in a recession)
+    - How would you meet a significant margin call
+- Do you have the self control to avoid speculation?
+    - Speculation = picking stocks and timing the market
+- Are you investing with a very long-term time horizon (10+ years)?
+- Are you familiar with the tax implications?
+
 ## Longevity and Sequencing Risk
 
 ## Risk Profile
