@@ -734,15 +734,15 @@ Achieve financial independence primarily using super
 
 ### Phase 4: Freedom a bit earlier (FIRE)
 1. Live a content and frugal life (Lean or Barista FIRE)
-- keep living expenses low to achieve financial independence early
-- keep working until superannuation becomes available (age 60)
+- keep living expenses low to achieve financial independence early.
+- keep working until superannuation becomes available (age 60).
 2. Build a large investment property portfolio (FAT or Coast FIRE)
-- with a 'assive income' from the positive cash flow (rent)
-- continue working only for the satisfaction of the work
+- with a 'passive income' from the positive cash flow (rent).
+- continue working only for the satisfaction of the work.
 3. Build a large share portfolio (FAT or Coast FIRE)
-- with a 'passive income' from the positive cash flow (dividends)
-- continue working only for the satisfaction of the work
+- with a 'passive income' from the positive cash flow (dividends).
+- continue working only for the satisfaction of the work.
 4. Build a profitable business (FAT or Coast FIRE)
-- and sell it to someone else for capital gains
+- and sell it to someone else for capital gains.
 - continue working only for the satisfaction of the work.
 
