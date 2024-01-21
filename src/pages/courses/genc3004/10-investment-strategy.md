@@ -473,6 +473,184 @@ Tend to be very simplistic and try to push people into these different categorie
 
 ## Asset Allocation
 
+### Strategic Asset Allocation (SAA)
+Decides an appropriate long-term asset allocation.
+
+Rebalance to the original allocation periodically.
+- Asset allocation will deviate from target due to different returns of each category.
+- Sell asset categories that have outperformed.
+- Invest the proceeds into categories that have underperformed.
+
+Does not require ability to 'time the market'.
+
+Focuses attention on long-term investment strategy.
+
+Helps to avoid human bias to speculate on short-term 'opportunities'.
+
+### Types of Asset Allocation
+1. Strategic Asset Allocation (SAA)
+- Long-term target allocation with periodic rebalancing to original allocation.
+- Example: Cash 10%, Fixed Interest 20%, Commercial Property 20%, Shares 50%.
+2. Tactical Asset Allocation (TAA)
+- **WARNING** extremely hard
+- Short-term deviations from SAA to profit from mis-pricing in asset categories.
+- Example: You think there is a stock-market bubble so ... Shares -10%, Fixed Interest +10%
+3. Dynamic Asset Allocation (DAA)
+- Continual adjustments to long-term target based on asset category performance.
+- Targets are in constant flux.
+
+We will focus on Strategic Asset Allocation
+- TAA is far too prone to human bias and DAA is for professional fund managers.
+
+### Some things to consider...
+1. Investment time horizon
+- This will be affected by life stage and need for liquidity to fund large cash outflows.
+2. Risk profile
+- This affects mix of growth v income investments and willingness to take on financial leverage.
+3. Life stage
+- Younger people can take on more risk as there is more time to fix problems.
+- More mature people need to consider sequencing and longevity risks.
+4. Investment goals
+- If expected to achieve goals with moderate risk, why take high risk? Avoid greed!
+5. Financial literacy and experience
+- More alternatives are available with higher financial education and experience.
+
+### People with lower financial literacy...
+1. Less likely to plan for retirement.
+2. Less likely to hold shares.
+3. More likely to hold undiversified portfolio.
+4. Less able to estimate the time needed to pay off a credit card balance.
+5. More likely to incur fees for late payments.
+6. Exceeding borrowing limits.
+7. More likely to pay higher interest rate on their mortgage.
+8. More likely to ignore or misunderstand financial literacy initiatives.
+9. Less likely to seek advice from a qualified financial adviser.
+
+### Deciding on your strategic asset allocation
+1. Cash buffer is in 'cash'
+- Cash buffer is minimum balance in your bank transaction account to pay bills on time.
+2. Financial slack is in 'cash' and/or 'fixed interest'.
+- Financial slack is your 'save to spend' and emergency funds.
+3. Funds 'required' within 5 years in low-risk investments.
+- Fixed interest (term deposits), low-risk infrastructure or listed propery trusts (low leverage).
+4. Determine strategic asset allocation for remaining investments
+- Consider life-stage, investment objectives, time-horizon, risk-profile, and diversification.
+5. Consider adding financial leverage when appropriate.
+- Consider higher risk but also higher expected long-term returns, tax advantages.
+- Time horizon must be 10+ years and you must be self-controlled (human bias).
+
+### FPA Portfolio Construction Process
+FPA is the Financial Planning Association of Australia
+1. Understanding the client's objectives.
+2. Understanding the client's risk tolerance.
+3. Determine the strategic asset allocation (SAA).
+4. Testing the appropriateness of the SAA.
+5. Discuss the trade-offs, implications, and alternatives.
+6. Determining the investment process that suits the client's needs.
+7. Discuss the investment structure that meets the client's specific circumstances and preferences.
+8. Recommending specific investments and structures.
+9. Ongoing reviews.
+
 ## Investment Tips
+
+1. Save to Invest
+- Save at least 20% of your gross income and never plan to spend it.
+- Kicks off the 'investment income cycle'.
+- The most reliable driver of wealth for your first 20 years.
+    - Investment returns tend to be more important after first 20 years.
+- Too many people focus on fancy investment strategies but neglect the basic strategy of just saving and investing over time!
+
+2. Invest in what you understand
+- Sophisticated investors avoid investments they don't understand.
+- For example, Warren Buffett (founder of Berkshire Hathaway)
+- Avoid unnecessary complexity
+- Increase your knowledge over time
+    - Read good books and avoid 'get rich quick' books or courses.
+- Understand clearly how the investment generates returns.
+- Understand the likely outcomes in possible future scenarios (risks).
+- Understand what events would trigger catastrophic loss.
+
+3. Go with mainstream assets
+- Cash (savings accounts)
+- Fixed interest (term deposits or bonds)
+- Residential property (apartment or house)
+- Commercial property (shops, office space, listed property trust)
+- Shares in companies in your own country (via ETF)
+- Shares in companies in other countries (via ETF)
+- Avoid non-mainstream investments such as Bitcoin, Foreign Exchange, Commodities...
+
+4. Understand the risks
+- Default or catastrophic risk
+    - Chance of losing most or all of your investment (catastrophic loss)
+- Total risk (sigma)
+    - Uncertainty or volatility of future returns (standard deviation)
+- Systematic risk (beta)
+    - Sensitivity of investment returns to economic risks
+- Higher expected return usually requires higher systematic risk.
+- Higher total risk is not necessarily a problem:
+    - if the investments are good quality, diversified
+    - and you invest for the long term (5+ years)
+
+5. Diversify
+- Diversfiy across quality investments
+    - If you invest in shares, don't invest in just one company!
+- Diversify across mainstream investment categories
+    - Split your investments across cash, fixed interest, property, and shares.
+- Diversfiy wealth creation strategies
+    - Your ability to generate income, own home, other investments, retirement savings, and own business.
+        - but not all and not at the same time
+
+6. Diversify over time
+- For a diversified portfolio of quality investments
+    - the returns in one year are usually unrelated to returns in the next year
+    - this reduce the total risk over the long term
+    - returns should converge on the long-term average
+    - also a trick called 'dollar cost averaging'
+        - if you are investing a large amount into a high risk investment, then you can decrease your total risk by splitting your investment over a few different years.
+
+7. Invest based on investment time horizon
+- Investment time horizon is how many years it will be until you need access to your funds to spend or make other investments.
+- Short-term (0 to 1 year)
+    - Low risk investments to protect the value of the investment.
+    - Cash and some secure fixed interest.
+- Medium term (1 to 5 years)
+    - Moderate risk investments to protect value while achieving a moderate return.
+    - Fixed interest and some low risk, diversified commercial property.
+- Long-term (5+ years)
+    - Higher risk investments with higher expected long-term returns.
+    - A diversified portfolio of quality shares, commercial, and residential property.
+    - Use time to reduce total risk - very bad years balanced out by very good years.
+    
+8. Avoid speculation
+- Don't try to 'time the market' or 'pick stocks'
+- This is **not** investing - it is gambling.
+- Speculators think they are smarter than others (overconfidence bias)
+- But most lose in the long-term showing they are **not** smarter.
+    - transaction fees and behavioural biases
+- Focus on building wealth by:
+    - save to invest
+    - diversifying across quality investments
+    - investing for the long-term
+    
+9. Build your knowledge and experience
+- Avoid books or courses that focus on:
+    - Getting rich quick
+    - Making money through speculation, picking stocks, or timing the market
+- Read general books on personal finance and investment.
+- Read specialist books on specific mainstream investments.
+- Read 'money' columns on quality media and websites.
+- Avoid anyone trying to 'sell' you a system.
+- Avoid expensive non-university investment 'courses'
+- Supplement your knowledge with professional advice.
+    - but avoid advisers who 'sell products' that are not in your best interest.
+    
+10. Take action
+- Sometimes taking no action is worse than randomly choosing a good investment.
+- Many people get 'choice anxiety' and do nothing.
+- Start small and invest regularly.
+- Stick with quality, diversified mainstream investments.
+- Stick with large and trusted financial institutions.
+- Don't try to make the 'best' choice ... avoid the 'bad' ones.
+
 
 ## Financial and Investment Strategy
