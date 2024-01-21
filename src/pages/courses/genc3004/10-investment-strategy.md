@@ -439,6 +439,38 @@ You need to watch out for this between ages 50 and 75.
 
 ## Risk Profile
 
+### Higher expected returns require higher risk
+The higher the targeted expected return
+- the higher the risk
+- which results in higher volatility in the short-term
+
+Can you keep your eyes on the long term goal:
+- when you are experiencing short-term losses?
+
+Can you handle the short-term volatility?
+
+Can you show self-control and avoid selling in a panic?
+
+### Investment Risk Profile Tools
+Help you to understand how you feel about risk and how you might behave when experiencing losses.
+
+Provide guidelines on how to allocate investment funds amongst major asset categories (cash, fixed interest, shares, property).
+
+Risk profile influenced by values, personality, experiences, and education.
+
+### Risk Profile Types
+Tend to be very simplistic and try to push people into these different categories:
+1. Very conservative
+- Averse to growth investments and prefer income investments.
+2. Conservative
+- Mostly income investments with a small proportion in growth investments.
+3. Average investor
+- Balanced between income and growth investments.
+4. Growth investor
+- Mostly growth investments.
+5. Aggressive growth investor.
+- Mostly growth investments but including some financial leverage.
+
 ## Asset Allocation
 
 ## Investment Tips
