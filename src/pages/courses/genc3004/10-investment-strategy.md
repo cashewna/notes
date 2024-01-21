@@ -418,6 +418,25 @@ Risk that you will outlive your retirement savings:
 2. Investing too aggressively ... exposed to *fast* fall in stock market.
 3. Relationship breakdown ... asset redistribution and higher expenses.
 
+### Sequencing Risk
+Risk that the order and timing of investments and returns is unfavourable.
+
+It is most significant during last 10 years of accumulation phase and
+first 10 years of retirement income phase.
+
+You need to watch out for this between ages 50 and 75.
+
+### Sequencing and Longevity Risk Strategies
+1. Age Pension may provide a 'cushion' as assets and income fall.
+2. Accept and adapt ... cut back in living expenses.
+3. Remember that declining health could mean more frugal lifestyle.
+4. May be able to obtain some financial help from family (children).
+5. Use conservative assumptions when forecasting.
+6. Diversify and avoid speculation (especially by bored retirees).
+7. Invest next year of retirement income in cash.
+8. Invest next 4 years of retirement income in fixed interest.
+9. Buy a lifetime annuity if interest rates are high (transfer risk).
+
 ## Risk Profile
 
 ## Asset Allocation
