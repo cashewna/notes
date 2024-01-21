@@ -19,6 +19,32 @@ But each dollar gives less happiness than the last one.
 
 This is called 'diminishing marginal utility'.
 
+### Define your own values and goals
+Focus on achieving intrinsic goals consistent with your own values
+rather than extrinsic approval from others or financial success -
+especially for 'achieving money worshippers'.
+
+### What are values, principles, and purpose?
+
+#### Values
+A quality or standard of behaviour that tell us what is 'good'.
+
+Expressed in general terms and focusses on **what** we value.
+
+Often expressed in one or two words, such as "thriftiness" or "honesty".
+
+#### Principles
+A specific rule governing behaviour that tell us what is 'right'.
+
+Specific and applied statements outlining **how** we may (or may not) achieve our values.
+
+Often expressed in statements as "I'll never ..." or "I'll always ..."
+
+#### Purpose
+Provides our reason for being.
+
+It explains **why** our values and principles are important.
+
 ## Asset Categories
 
 ## Financial Leverage
