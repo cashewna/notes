@@ -412,6 +412,12 @@ LVR 30% - Market fall 62.5%
 
 ## Longevity and Sequencing Risk
 
+### Longevity Risk
+Risk that you will outlive your retirement savings:
+1. Investing too conservatively ... low returns and *slow* capital erosion.
+2. Investing too aggressively ... exposed to *fast* fall in stock market.
+3. Relationship breakdown ... asset redistribution and higher expenses.
+
 ## Risk Profile
 
 ## Asset Allocation
