@@ -3,5 +3,10 @@
         "id": 1,
         "title": "GENC3004",
         "url": "/courses/genc3004"
+    },
+    {
+        "id": 2,
+        "title": "COMP1521",
+        "url": "/courses/comp1521"
     }
 ]
