@@ -1,18 +1,35 @@
 ---
 import courses from "../pages/courses/courseTitles.json";
+import homelabItems from '../pages/homelab/homelabItems.json';
 ---
-
-<div>
+<nav>
     <ul>
-    {
-        courses.map((course) => (
-            <li>
-                <a href={course.url}>{course.title}</a>
-            </li>
-        ))
-    }
+        <li class="category">
+            <span>Courses</span>
+            <ul>
+                {
+                    courses.map((course) => (
+                        <li>
+                            <a href={course.url}>{course.title}</a>
+                        </li>
+                    ))
+                }
+            </ul>
+        </li>
+        <li class="category">
+            <span>Homelab</span>
+            <ul>
+                {
+                    homelabItems.map((item) => (
+                        <li>
+                            <a href={item.url}>{item.title}</a>
+                        </li>
+                    ))
+                }
+            </ul>
+        </li>
     </ul>
-</div>
+</nav>
 
 <style>
     ul {
@@ -27,5 +44,9 @@ import courses from "../pages/courses/courseTitles.json";
     a {
         text-decoration: none;
         color: darkblue;
+    }
+
+    .category {
+        margin: 1rem 0;
     }
 </style>
